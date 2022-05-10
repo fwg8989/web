@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/damn.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1,h2{
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    font-size: 18px;
+}
+h1{
+    color: chartreuse;
+}
+li,a{
+    color: yellow;
+}
+article{
+    border-block-color: #7b2216;
+    border-block-style: solid;
+    color: aquamarine;
+}

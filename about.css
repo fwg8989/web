@@ -1,0 +1,15 @@
+p{
+    color: #030201;
+    font-size: 15px;
+    font-style: oblique;
+}
+body{
+    background-image: url("images/cl.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: firebrick;
+    font-style: italic;
+    font-size: 18px;
+}
